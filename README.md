@@ -92,37 +92,6 @@ Today I focus on building technology that is **automated, secure, observable and
 
 ---
 
-## `./experience`
-
-### 🟢 GoDaddy — Systems Engineer III
-`December 2023 → Present`
-
-Engineering across **AI Voice Agents, AWS Cloud, Amazon Connect, Zoom Contact Center, Cisco Contact Center, Genesys Cloud CX, Salesforce and ServiceNow**.
-
-- Engineering and testing AI voice bots and programmable voice/messaging systems
-- Building SMS and fraud-detection capabilities
-- Applying data intelligence to fraud prevention and cost optimization
-- Working across contact-center and communications integrations
-- Building reporting and operational intelligence workflows
-- Moving reporting workflows toward custom web applications
-
-### 🔵 Genpact — Systems Engineer III / Systems Engineer II
-`2019 → 2023`
-
-Telecommunications and global voice infrastructure across **Cisco IPT, UCCE, CUCM, CVP, ICM, CDR and MySQL**.
-
-- Global telecom support across APAC, EMEA, US, LATAM and India
-- Telecom SME and technical escalation responsibilities
-- Automation for troubleshooting and self-service
-- Knowledge-base engineering and operational tooling
-
-### ⚙️ Earlier Engineering
-**Senior System Engineer · Business Consultant · Technical Support · Professional Freelancer · QA Engineer (R&D)**
-
-Experience across **automation, project/vendor management, IT infrastructure, web development, networking, electronics, IoT, R&D and technical consulting**.
-
----
-
 ## `./stack`
 
 <p align="center">
@@ -160,25 +129,16 @@ Research work focused on **intelligent traffic systems and connected vehicles**.
 
 Also contributed to work around **Energy & Smart Cars** and intelligent traffic systems, with documented citations in research papers and patents.
 
----
-
-## `./education`
-
-🎓 **M.Tech — Artificial Intelligence & Machine Learning**  
-Birla Institute of Technology and Science, Pilani · `2026 → 2027`
-
-🧠 **Global Consumer Intelligence (GCI)**  
-The University of Tokyo · Matsuo-Iwasawa Lab · `2026`
-
-⚡ **Bachelor's — Electrical, Electronics & Communications Engineering**  
-JNTUH College of Engineering Hyderabad · `2012 → 2016`
 
 ---
 
 ## `./certifications`
 
-🛡️ **Certified Ethical Hacker (CEH)** · 📡 **Zoom Contact Center Administration**  
-🖥️ **System Administration** · 🎨 **Foundations of User Experience (UX) Design**
+🛡️ **Certified Ethical Hacker (CEH)**
+🖥️ **AWS Certified AI Practitioner** 
+📡 **Zoom Contact Center Administration**  
+🖥️ **System Administration** 
+🎨 **Foundations of User Experience (UX) Design**
 
 ---
 
@@ -187,13 +147,13 @@ JNTUH College of Engineering Hyderabad · `2012 → 2016`
 ```bash
 $ ps aux | grep sai
 
-AI/ML Engineering       [ RUNNING ]
-Cloud Architecture      [ RUNNING ]
+AI/ML Engineering        [ RUNNING ]
+Cloud Architecture       [ RUNNING ]
 Cybersecurity            [ RUNNING ]
 Telecom Engineering      [ RUNNING ]
 Automation               [ RUNNING ]
 Research                 [ RUNNING ]
-Learning                 [ ALWAYS ]
+Learning                 [ ALWAYS  ]
 ```
 
 **Currently exploring:** AI Engineering · AI Agents · Cloud Architecture · Cybersecurity · Telecom Automation · Data Intelligence · Developer Tools
